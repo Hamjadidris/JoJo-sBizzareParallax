@@ -144,8 +144,8 @@ header h1{
         opacity: 0;
     }
     100%{
-       transform:translateX(30rem)translateY(6rem);
-        opacity: 1;
+         transform:translateX(30rem)translateY(6rem);
+         opacity: 1;
     }
     
 }
