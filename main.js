@@ -64,7 +64,7 @@ section2observer.observe(section2)
 //  dio.style.transform = `translateX(-${window.scrollY/903}px)`
 //  zawarudo.style.transform = `translateX(${window.scrollY}px)`
 //     }
-// })
+// } )
 
 const text1_options = [
     "I have ‘Soft and Wet’ that exists under heaven and earth... Supple and moist they spin...",
